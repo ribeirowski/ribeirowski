@@ -1,4 +1,4 @@
-<img src="https://yt3.ggpht.com/ytc/AAUvwngabyfwk4Q3Le9P1uNdWy5rTTBmEzJz9oV_E_w6XN0=s150-c-k-c0x00ffffff-no-rj" min-width="250px" max-width="250px" width="250px" align="right" alt="ER">
+<img src="https://yt3.ggpht.com/ytc/AAUvwngabyfwk4Q3Le9P1uNdWy5rTTBmEzJz9oV_E_w6XN0=s150-c-k-c0x00ffffff-no-rj" min-width="200px" max-width="200px" width="200px" align="right" alt="ER">
 
 <p align="left"> 
   👋 Hi, I’m <strong>@ribeirowski</strong>, also known as <strong>Ênio</strong>. I'm a Computer Engineering Student at CIn, UFPE!
