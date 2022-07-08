@@ -52,10 +52,14 @@
 </div>
 
 <div>
+  <a href="https://github.com/ribeirowski" alt="ribeirowski">
+
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="325px" alt="ER"/> 
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=7&theme=dracula" width="320px" 
 <div align="left">
+  
+  </a>
 </div>
 
 <!---
