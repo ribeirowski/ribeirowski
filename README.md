@@ -1,6 +1,8 @@
 <!---<img src="https://yt3.ggpht.com/ytc/AAUvwngabyfwk4Q3Le9P1uNdWy5rTTBmEzJz9oV_E_w6XN0=s150-c-k-c0x00ffffff-no-rj" min-width="200px" max-width="200px" width="200px" align="right" alt="ER">---!>
 <div>
   <p align="left"> 
+    <a href="https://github.com/ribeirowski/?tab=follow">
+    <img src="https://img.shields.io/github/followers/ribeirowski?label=Follow&style=social" align="right"/></a>
     👋 Hi, I’m <strong>@ribeirowski</strong>, also known as <strong>Ênio</strong>. I'm a Computer Engineering Student at <a href="https://www.cin.ufpe.br/~ehnr/" target="_blank" rel="noopener noreferrer">CIn, UFPE</a>!
   </p>
 
