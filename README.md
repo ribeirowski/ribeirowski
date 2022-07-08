@@ -20,6 +20,13 @@
   📫 How to reach me:
 </p>
 
+<ul>
+  <li> <b> Personal Page: </b>
+  <a href="https://cin.ufpe.br/~ehnr" alt="ehnr"> https://cin.ufpe.br/~ehnr </a> <br>
+  <li> <b> E-mail: </b>
+  <a href="mailto:ehnr@cin.ufpe.br" alt="email"> ehnr@cin.ufpe.br </a>
+</ul>
+
 <p align="left">
   <a href="https://instagram.com/eniohnr" alt="Instagram">
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -41,7 +48,7 @@
   
   <a href="https://www.youtube.com/channel/UCKfX8gT8y6aOJjUY1hqwTIw" alt="Youtube">
   <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a>
-</p>  
+</p> 
 
 <!---
 ribeirowski/ribeirowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
