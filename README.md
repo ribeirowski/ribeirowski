@@ -54,14 +54,14 @@
 <div>
   <a href="https://github.com/ribeirowski" alt="ribeirowski">
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="325px" alt="ER"/> 
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=7&theme=dracula" width="320px" 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact" width="355px" alt="ER"
 <div align="left">
-  
+   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook" width="320px"
+
   </a>
 </div>
-
+  
 <!---
 ribeirowski/ribeirowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
