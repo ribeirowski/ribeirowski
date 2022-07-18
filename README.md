@@ -11,7 +11,7 @@
   </p>
 
   <p align="left">
-    🌱 I’m currently learning <strong>Python, C and Javascript</strong>...
+    🌱 I’m currently learning <strong>Python, C, C++ and Javascript</strong>...
   </p>
 
   <p align="left">
