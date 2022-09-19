@@ -7,7 +7,7 @@
   </p>
 
   <p align="left">
-    🧐 I’m interested in <strong>Python, C, C++, Java, HTML, CSS, Javascript</strong>...
+    🧐 I’m mainly interested in <strong>Programming, Embedded Systems, IoT, Computer Vision, Machine Learning and AI </strong>...
   </p>
 
   <p align="left">
