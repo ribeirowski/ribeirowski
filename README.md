@@ -11,8 +11,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/ribeirowski">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook,Verilog,Stata,Makefile,Mathematica,Batchfile,Standard%20ML,Scheme"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook,Verilog,Stata,Makefile,Mathematica,Batchfile,Standard%20ML,Scheme"/>
 </div>
 <br>
 <div align="center">
