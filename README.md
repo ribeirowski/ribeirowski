@@ -5,17 +5,9 @@
     <img src="https://img.shields.io/github/followers/ribeirowski?label=Follow&style=social" align="right"/></a>
     👋 Hi, I’m <strong>@ribeirowski</strong>, also known as <strong>Ênio</strong>. I'm a Computer Engineering Student at <a href="https://www.cin.ufpe.br/~ehnr/" target="_blank" rel="noopener noreferrer">CIn, UFPE</a>!
   </p>
-
+  
   <p align="left">
-    🧐 I’m interested in <strong>Programming, IoT, Computer Vision, Machine Learning and AI </strong>...
-  </p>
-
-  <p align="left">
-    🌱 I’m currently learning <strong>Python, C, C++ and Javascript</strong>...
-  </p>
-
-  <p align="left">
-    👀 I’m looking to collaborate on beginner projects to improve my skills.
+    🧐 I’m currently learning <strong>Python, C, C++, SQL and Javascript</strong>...
   </p>
 
   <p align="left">
@@ -33,8 +25,8 @@
   <a href="https://github.com/ribeirowski" alt="ribeirowski">
 <div align="center">
   <a href="https://github.com/humilimo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook,Verilog,Stata,Makefile,Mathematica,Batchfile,Standard%20ML,Scheme"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook,Verilog,Stata,Makefile,Mathematica,Batchfile,Standard%20ML,Scheme"/>
 </div>
 <br>
 <div align="center">
