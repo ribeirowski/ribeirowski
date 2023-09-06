@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning more about **Python** and **SQL**
 - 🔭 I’m passionate about learning and helping others. Always open to new challenges
 - 📫 How to reach me:
+
   - **Personal Page:** https://cin.ufpe.br/~ehnr
   - **E-mail:** [ehnr@cin.ufpe.br](mailto:ehnr@cin.ufpe.br)
   
