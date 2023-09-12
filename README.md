@@ -1,4 +1,4 @@
-- 👋 Hey, my name is **Ênio Henrique**, also known as **ribeirowski**
+- <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="21"> Hey, my name is **Ênio Henrique**, also known as **ribeirowski**
 - 💻 I'm a **Computer Engineering** student at **CIn UFPE**
 - 🌱 I’m currently learning more about **Python** and **SQL**
 - 🔭 I’m passionate about learning and helping others. Always open to new challenges
