@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/ribeirowski">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribeirowski&rank_icon=github&show_icons=true&theme=dracula&include_all_commits=true&border_radius=15&count_private=true&hide_border=true&title_color=87CEFA&icon_color=FFD700&layout=compact"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook,Verilog,Stata,Makefile,Mathematica,Batchfile,Standard%20ML,Scheme,Dockerfile"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirowski&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10&theme=dracula&hide_border=true&border_radius=10&title_color=87CEFA&icon_color=FFD700&hide=Jupyter%20Notebook,Assembly,HTML,CSS,Verilog,Stata,Makefile,Mathematica,Batchfile,Standard%20ML,Scheme,Dockerfile"/>
 </div>
 <br>
 <div align="center">
