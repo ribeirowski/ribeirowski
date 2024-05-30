@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/eniohnr" alt="Linkedin">
   <img width="40" height="40" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/eniohnr" alt="Twitter">
-  <img width="40" height="40" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
+  <img width="42" height="42" src="https://img.icons8.com/color/48/twitterx--v1.png"/></a>
   <a href="https://www.youtube.com/channel/UCKfX8gT8y6aOJjUY1hqwTIw" alt="Youtube">
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/youtube-play.png" alt="youtube-play"/>
 </div>
